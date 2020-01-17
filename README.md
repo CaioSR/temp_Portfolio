@@ -13,9 +13,6 @@ Um chat peer to peer desenvolvido em Python.
 ### Jogo da Velha remoto. [link](https://github.com/the-tictactoe-brothers/tic-tac-toe).
 Um jogo da velha web com backend em javascript (Node.js) desenvolvimento em grupo.
 
-### Simulação de atendimento. [link](https://github.com/CaioSR/Simulacao-Discreta).
-Uma simulação de atendimento em uma pizzaria local utilizando dados reais e conceitos da Simulação Discreta. Desenvolvido em Python.
-
 ### Desenho utilizando conceitos da computação gráfica. [link](https://github.com/CaioSR/GUI).
 Uma tela para desenho de algumas formas utilizando conceitos de rasterização da computacação gráfica. Desenvolvido em Python.
 

@@ -1,9 +1,6 @@
 # temp_Portfolio
 Compilado de pequenos projetos realizados por mim.
 
-### Página web de login de usuário. [link](https://github.com/CaioSR/frontend-av).
-Páginas de login, cadastro e recuperação de senha somente com front-end (puro, sem framework).
-
 ### Trabalho de Conclusão de Curso. [link](https://github.com/CaioSR/deps-ahoy).
 Um Scrapper de projetos para análise de dependências desenvolvimento em Python.
 
